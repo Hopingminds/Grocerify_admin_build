@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d1ef413.css",
+    "main.js": "/static/js/main.e7833ecf.js",
+    "static/js/787.4b841b46.chunk.js": "/static/js/787.4b841b46.chunk.js",
+    "static/media/facewash.svg": "/static/media/facewash.094b46341f4b9da5d023eab80227a0d1.svg",
+    "static/media/shop.png": "/static/media/shop.99aaf66588344ab18c6d.png",
+    "static/media/Sales.svg": "/static/media/Sales.63335f3dce6d1c6cc5aecb279cc92f49.svg",
+    "static/media/Salary.svg": "/static/media/Salary.fa495726fbf52f7c30b710574dbe0747.svg",
+    "static/media/Courier.svg": "/static/media/Courier.7ecfb2a035909fd728eee1ffcb6ed5bb.svg",
+    "static/media/visitors.svg": "/static/media/visitors.bad92e3c12420c82ecc3a5ac88d3879d.svg",
+    "static/media/Target.svg": "/static/media/Target.93844c1ffdcc399aa6f72eee66e10ebb.svg",
+    "static/media/logo.svg": "/static/media/logo.cf4ee3734d758542da87a644eb123416.svg",
+    "static/media/Received.svg": "/static/media/Received.ef133c53b5a8cb8ba2b2613125ad077a.svg",
+    "index.html": "/index.html",
+    "main.3d1ef413.css.map": "/static/css/main.3d1ef413.css.map",
+    "main.e7833ecf.js.map": "/static/js/main.e7833ecf.js.map",
+    "787.4b841b46.chunk.js.map": "/static/js/787.4b841b46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d1ef413.css",
+    "static/js/main.e7833ecf.js"
+  ]
+}
